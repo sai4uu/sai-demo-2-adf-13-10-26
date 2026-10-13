@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "saiwait_1_in_2",
+				"name": "saiwait_1_in_2_0",
 				"type": "Wait",
 				"dependsOn": [],
 				"userProperties": [],
